@@ -5,8 +5,8 @@ O modelo deve ser treinado para indetificar o valor de cada casa a predição de
 O modelo deve aprender a fazer a  predição do preço da casa. Tente 5 tipos diferentes  táticas de aprendizado de maquina supervisionado ex: Regressão Linear, Regressão Logística, SVM e etc.<br>
 Mostre o gráfico com a melhor performance entre os modelos para identifica qual tecnologia alcanço o melhor resultado plot grafico de linha contendo price de cada modelo predict.<br>
 Escolha entre os 5  modelos que teve a melhor acurácia e crie um aplicativo chamado app.py utilize <strong>streamlit</strong> para criar um formulário com todos os campos que sera  necessário para  fazer o predict e retorne o valor da casa que seu melhor modelo  de machine learning previu. 
-No app.py plot grafico de colunas com as 10 casas mais caras.
-No app.py plot grafico de colunas com as 10 casas mais baratas.
+No app.py plot grafico de colunas com as 10 casas mais caras (matplotlib).
+No app.py plot grafico de colunas com as 10 casas mais baratas (seaborn).
 
 # O que será avaliado
 Seu domínio com as linguagens utilizadas<br>
